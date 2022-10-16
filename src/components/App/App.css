@@ -1,0 +1,45 @@
+.app {
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 400;
+    min-width: 375px;
+}
+.reverseAB {
+    display: block;
+}
+.reverseABNone {
+    display: none;
+}
+.BA {
+    display: block;
+}
+.BANone {
+    display: none;
+}
+.reverseBA {
+    display: block;
+}
+.reverseBANone {
+    display: none;
+}
+.AB {
+    display: block;
+}
+.ABNone {
+    display: none;
+}
+.reverseTime {
+    display: none;
+}
+.reverseTimeSel {
+    display: none;
+}
+.reverseTimeVisible {
+    display: inline-block;
+}
+.form {
+    display: flex;
+    flex-direction: column;
+    width: 30%;
+    margin: auto;
+}
